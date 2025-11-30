@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pycache/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
+
+# byte-compiled
+*.egg-info/
+dist/
+build/
+
+# ADK logs and temp
+*.log
+*.sqlite
+
+# Ignore compiled data
+*.pickle
+*.pkl
